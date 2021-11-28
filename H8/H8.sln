@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pittiger oefening 2", "pitt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pittiger oefening 3", "Pittiger oefening 3\Pittiger oefening 3.csproj", "{DAF3DDDA-57BA-4C5C-A276-9264625A7506}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vraag Array", "Vraag Array\Vraag Array.csproj", "{047B37DA-924C-4E67-A294-A9128004C9EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vraag Array", "Vraag Array\Vraag Array.csproj", "{047B37DA-924C-4E67-A294-A9128004C9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array zoeker", "Array zoeker\Array zoeker.csproj", "{980B7404-9AF6-449A-BBA3-79B3B90D0909}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{047B37DA-924C-4E67-A294-A9128004C9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047B37DA-924C-4E67-A294-A9128004C9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047B37DA-924C-4E67-A294-A9128004C9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980B7404-9AF6-449A-BBA3-79B3B90D0909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980B7404-9AF6-449A-BBA3-79B3B90D0909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980B7404-9AF6-449A-BBA3-79B3B90D0909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980B7404-9AF6-449A-BBA3-79B3B90D0909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
