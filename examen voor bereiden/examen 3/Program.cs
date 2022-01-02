@@ -132,19 +132,19 @@ namespace examen_3
                 {
                     case 0:
                         //als ze het aan doen
-                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.BackgroundColor = ConsoleColor.Green;
                         newearray[teller1] = teller1;
                         Console.Write($"{newearray[nummertje]}");
                         break;
                     case 1:
                         //als ze de alarm afdoen
-                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.BackgroundColor = ConsoleColor.Red;
                         newearray[teller1] = teller1;
                         Console.Write($"{newearray[nummertje]}");
 
                         break;
                     default:
-                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.BackgroundColor = ConsoleColor.Blue;
                         newearray[teller1] = teller1;
                         Console.Write($"{newearray[nummertje]}");
                         break;
